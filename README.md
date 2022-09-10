@@ -12,13 +12,28 @@ Nykaa sells products which are manufactured in India as well as internationally.
 it is collabraton project ..me and my 4 team made this project ..
 
 
-#DEPLOYMENT LINK:-https://dreamy-gumdrop-ca3b70.netlify.app/
+# DEPLOYMENT LINK
+https://dreamy-gumdrop-ca3b70.netlify.app/
 
 
 
-#screenshots
+# screenshots
 ![Screenshot (1697)](https://user-images.githubusercontent.com/108890988/189495829-86722986-464d-4837-b49e-cb737600c7d3.png)
 
+
+
+
+# Features
+* navbar with megamenu
+* Login/Logout
+* Home page and Sub pages
+* Checkout-Page/Address-Page/Payments-Page/
+* Interactive Sliders with Products displayer
+
+
+# Tech Stack
+* Client: HTML, CSS, Javascript
+* Server: JSON
 
 
 
